@@ -1,0 +1,25 @@
+.bg-GSwhite {
+    background-color: #F2F2F2;
+  }
+  
+  .text-GSblack {
+    color: #3A3A3A;
+  }
+  
+  .bg-GSgreen {
+    background-color: #AEC281;
+  }
+  
+  .bg-GSbg {
+    background-color: #8BCA00;
+  }
+  
+  .bg-GSlightgreen {
+    background-color: #D2FE71;
+  }
+  
+  /* Font Family */
+  .font-GSfont {
+    font-family: 'Poppins', sans-serif;
+  }
+  

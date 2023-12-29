@@ -1,6 +1,6 @@
 # JSD Project - Corgi Milkshake
 
-## Sprint 1 - Website Planing ##
+## Sprint 1 - Website Prototype ##
  https://www.figma.com/file/aJdJeQCFxaulsLcovQNNUq/Sprint-1--Prototype?type=design&node-id=0-1&mode=design&t=okZg4b2kVjGxFPqJ-0
  //  Kickstart the project by creating a new instance of our app.
 
